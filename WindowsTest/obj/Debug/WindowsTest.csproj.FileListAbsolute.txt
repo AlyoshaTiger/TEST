@@ -1,0 +1,14 @@
+C:\Users\Алексей\Desktop\WindowsTest\WindowsTest\bin\Debug\WindowsTest.exe.config
+C:\Users\Алексей\Desktop\WindowsTest\WindowsTest\bin\Debug\WindowsTest.exe
+C:\Users\Алексей\Desktop\WindowsTest\WindowsTest\bin\Debug\WindowsTest.pdb
+C:\Users\Алексей\Desktop\WindowsTest\WindowsTest\bin\Debug\EntityFramework.dll
+C:\Users\Алексей\Desktop\WindowsTest\WindowsTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Алексей\Desktop\WindowsTest\WindowsTest\bin\Debug\EntityFramework.xml
+C:\Users\Алексей\Desktop\WindowsTest\WindowsTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Алексей\Desktop\WindowsTest\WindowsTest\obj\Debug\WindowsTest.Form1.resources
+C:\Users\Алексей\Desktop\WindowsTest\WindowsTest\obj\Debug\WindowsTest.Properties.Resources.resources
+C:\Users\Алексей\Desktop\WindowsTest\WindowsTest\obj\Debug\WindowsTest.csproj.GenerateResource.cache
+C:\Users\Алексей\Desktop\WindowsTest\WindowsTest\obj\Debug\WindowsTest.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\WindowsTest\WindowsTest\obj\Debug\WindowsTest.csproj.CopyComplete
+C:\Users\Алексей\Desktop\WindowsTest\WindowsTest\obj\Debug\WindowsTest.exe
+C:\Users\Алексей\Desktop\WindowsTest\WindowsTest\obj\Debug\WindowsTest.pdb
